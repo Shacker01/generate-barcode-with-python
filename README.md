@@ -1,1 +1,1 @@
-generate bar code with-python..
+generate bar code with python..
